@@ -4,7 +4,7 @@
 
 ## About
 
-  Analyzes HTTP a request's URL and body as they're received and if a SQL statement is detected responds with 403 Forbidden.  Intended to be part of a layered security approach.
+  Analyzes HTTP requests' URL and body as they're received and if a SQL statement is detected responds with 403 Forbidden.  Intended to be part of a layered security approach.
 
 ## Getting Started
   
