@@ -1,7 +1,7 @@
 {
   "name": "sql-inject-reject",
   "version": "0.1.0",
-  "description": "Node HTTP Server Middleware for Detecting and Rejecting SQL Injection Attempts",
+  "description": "HTTP server middleware for detecting and rejecting SQL injection attempts",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
