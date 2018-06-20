@@ -1,5 +1,5 @@
-# SQL-Inject-Reject
-  
+# SQL-Inject-Reject [![Build Status](https://travis-ci.org/Redeux/sql-inject-reject.svg?branch=master)](https://travis-ci.org/Redeux/sql-inject-reject) [![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/Redeux/sql-inject-reject/blob/master/LICENSE) 
+
   Detect and reject SQL injection attempts before processing them.
 
 ## About
