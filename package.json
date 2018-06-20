@@ -1,6 +1,6 @@
 {
-  "name": "inject-reject",
-  "version": "1.0.0",
+  "name": "sql-inject-reject",
+  "version": "0.1.0",
   "description": "Node HTTP Server Middleware for Detecting and Rejecting SQL Injection Attempts",
   "main": "index.js",
   "scripts": {
@@ -8,26 +8,27 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Redeux/Inject-Reject.git"
+    "url": "git+https://github.com/Redeux/sql-inject-reject.git"
   },
   "keywords": [
     "SQL",
-    "Injection",
+    "SQL Injection",
     "Middleware",
     "HTTP",
     "Server",
     "Express",
-    "Inject"
+    "Inject",
+    "Security"
   ],
   "author": "Phil Sautter",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Redeux/Inject-Reject/issues"
+    "url": "https://github.com/Redeux/sql-inject-reject/issues"
   },
-  "homepage": "https://github.com/Redeux/Inject-Reject#readme",
+  "homepage": "https://github.com/Redeux/sql-inject-reject#readme",
   "dependencies": {
-    "raw-body": "^2.3.3",
-    "xregexp": "^4.2.0"
+    "raw-body": "2.3.3",
+    "xregexp": "4.2.0"
   },
   "devDependencies": {
     "chai": "^4.1.2",
